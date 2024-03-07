@@ -7,15 +7,6 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-
-
-
-
-
-
-
-
-
             List<Person> list = new List<Person>();
 
             Console.Write("Enter the number of tax payers: ");
